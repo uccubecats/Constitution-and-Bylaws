@@ -3,13 +3,20 @@
 ## Table of Contents
 
 [Article I - Name](#article-i---name)
+
 [Article II - Purpose](#article-ii---purpose)
+
 [Article III – Membership](#article-iii--membership)
+
 [Article IV – Officers](#article-iv--officers)
+
 [Article V – Meetings](#article-v--meetings)
-[rticle VI – University Advisor](#article-vi--university-advisor)
+
+[Article VI – University Advisor](#article-vi--university-advisor)
+
 [Article VII – Amendments](#article-vii--amendments)
-[Article VIII – Ratification](#article-viii--ratificatione)
+
+[Article VIII – Ratification](#article-viii--ratification)
 
 ## Article I - Name
 

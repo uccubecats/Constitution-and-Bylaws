@@ -3,20 +3,35 @@
 ## Table of Contents
 
 [Section 1: Duties of officers](#section-1-duties-of-officers)
+
 [Section 2: Elections](#section-2-elections)
+
 [Section 3: Executive Board](#section-3-executive-board)
+
 [Section 4: University Advisor](#section-4-university-advisor)
+
 [Section 5: Standing Committees](#section-5-standing-committees)
+
 [Section 6: Special Committees](#section-6-special-committees)
+
 [Section 7: Meetings](#section-7-meetings)
+
 [Section 8: Revenue](#section-8-revenue)
+
 [Section 9: Discipline](#section-9-discipline)
+
 [Section 10: Impeachment](#section-10-impeachment)
+
 [Section 11: Vacancy of Office](#section-11-vacancy-of-office)
+
 [Section 12: Rules of order](#section-12-rules-of-order)
+
 [Section 13: Amendments of bylaws](#section-13-amendments-of-bylaws)
+
 [Section 14: Dissolution](#section-14-dissolution)
+
 [Section 15: Non-hazing clause](#section-15-non-hazing-clause)
+
 [Section 16: Adoption](#section-16-adoption)
 
 ## Section 1: Duties of officers

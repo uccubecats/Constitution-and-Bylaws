@@ -3,66 +3,21 @@
 ## Table of Contents
 
 [Section 1: Duties of officers](#section-1-duties-of-officers)
-### Part A: President
-### Part B: Vice-President
-### Part C: Secretary
-### Part D: Treasurer
-### Part E: CubeSat Project Manager
-## Section 2: Elections
-### Part A: Time of elections
-### Part B: Election process
-## Section 3: Executive Board
-### Part A: Composition of Executive Board
-### Part B: Executive Board duties
-### Part C: Executive Board meetings
-### Part D: Former officers on the Executive Board
-## Section 4: University Advisor
-### Part A: Advisor duties
-## Section 5: Standing Committees
-### Part A: Establishment of standing committees
-### Part B: Member Education Committee
-### Part C: Project Funding Committee
-### Part D: Ambassador Committee
-### Part E: Marketing Committee
-### Part F: Documentation Committee
-### Part G: Lab Management Committee
-### Part H: Chairman appointment
-### Part I: Chair Limit
-## Section 6: Special Committees
-### Part A: Establishment of committees
-### Part B: Establishment of Subsystem Teams
-### Part C: Dismissal of committees
-## Section 7: Meetings
-### Part A: Voting conducted in meetings
-### Part B: Time of meetings
-### Part C: Place of meetings
-## Section 8: Revenue
-### Part A: Membership fees and dues
-### Part B: Generation of revenue
-### Part C: Disbursement of revenue
-### Part D: Revenue duties of the Treasurer
-### Part E: Dissolution
-## Section 9: Discipline
-### Part A: Disciplinary action
-### Part B: Disciplinary action hearing
-### Part C: Definition of suspension
-### Part D: Definition of expulsion
-### Part E: Grounds for suspension and expulsion
-### Part F: Appeals
-## Section 10: Impeachment
-## Section 11: Vacancy of Office
-### Part A: Interim officer appointment
-### Part B: Elections
-### Part C: Vacancy of President
-## Section 12: Rules of order
-## Section 13: Amendments of bylaws
-### Part A: Amendment proposal
-### Part B: Amendment voting
-## Section 14: Dissolution
-### Part A: Dissolution process
-### Part B: Conducting of process
-## Section 15: Non-hazing clause
-## Section 16: Adoption
+[Section 2: Elections](#section-2-elections)
+[Section 3: Executive Board](#section-3-executive-board)
+[Section 4: University Advisor](#section-4-university-advisor)
+[Section 5: Standing Committees](#section-5-standing-committees)
+[Section 6: Special Committees](#section-6-special-committees)
+[Section 7: Meetings](#section-7-meetings)
+[Section 8: Revenue](#section-8-revenue)
+[Section 9: Discipline](#section-9-discipline)
+[Section 10: Impeachment](#section-10-impeachment)
+[Section 11: Vacancy of Office](#section-11-vacancy-of-office)
+[Section 12: Rules of order](#section-12-rules-of-order)
+[Section 13: Amendments of bylaws](#section-13-amendments-of-bylaws)
+[Section 14: Dissolution](#section-14-dissolution)
+[Section 15: Non-hazing clause](#section-15-non-hazing-clause)
+[Section 16: Adoption](#section-16-adoption)
 
 ## Section 1: Duties of officers
 

@@ -34,7 +34,7 @@ There shall be three classes of members: voting, non-voting, and honorary
 
 ### Section 2: Voting membership
 
-Voting membership is open to any full-time or part-time graduate or undergraduate student. Voting members must attend at least 3 official UC CubeCats meetings each semester.
+Voting membership is open to any full-time or part-time graduate or undergraduate student. Voting members must attend at least 3 official UC CubeCats meetings each semester. Official CubeCats meetings are General Meetings, Launch and Learn Sessions, CubeSat Program Meetings, and CATiSE meetings.
 
 ### Section 3: Non-voting membership
 
@@ -56,7 +56,7 @@ This organization shall not discriminate on the basis of race, color, ethnicity,
 
 ### Section 1: Officer positions
 
-Officer positions will include the President, Vice-President, Secretary, and Treasurer. Officers will be elected each spring semester and will hold office until the ending of the next spring semester.
+Officer positions will include the President, Vice-President, Secretary, Treasurer, and CubeSat Program Manager. Officers will be elected each spring semester and will hold office until the ending of the next spring semester.
 
 ### Section 2: Requirements
 

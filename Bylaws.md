@@ -34,6 +34,8 @@
 
 [Section 16: Adoption](#section-16-adoption)
 
+[Section 17: Miscellaneous](#Section-17-Miscellaneous)
+
 ## Section 1: Duties of officers
 
 ### Part A: President
@@ -121,7 +123,7 @@ After nominations are made, potential candidates have one week to create speeche
 
 ### Part A: Composition of Executive Board
 
-The Executive Board shall consist of the President, Vice-President, Secretary, Treasurer, and CubeSat Project Manager.
+The Executive Board shall consist of the President, Vice-President, Secretary, Treasurer, and CubeSat Program Manager.
 
 ### Part B: Executive Board duties
 
@@ -157,18 +159,20 @@ The Advisor shall:
 
 ### Part A: Establishment of standing committees
 
-The following permanent committees will be established with the creation of the UC CubeCats: Member Education Committee, Project Funding Committee, Ambassador Committee, Marketing Committee, Documentation Committee, Lab Management Committee.
+The following permanent committees will be established with the creation of the UC CubeCats: Member Education Committee, Project Funding Committee, Ambassador Committee, Marketing Committee, Documentation Committee, Lab Management Committee, and Research and Innovation Committee.
 
 ### Part B: Member Education Committee
 
 Goal of the committee:
 
-The Member Education Committee is to educate members of the UC CubeCats in order to facilitate the growth and sustainability of the club.
+The Member Education Committee is to educate members of the UC CubeCats in order to facilitate the growth and sustainability of the organization and its members. The position will fall under the President.
 
 To meet the goal of the committee, the committee shall:
 
 * Create and manage all educational programs
 * Schedule, assign workshop leaders, and manage all internal workshops of the UC CubeCats
+* Be responsible for managing the educational objectives of projects in the Cubesat program and the CATiSE program
+* Be the point of contact for any external education organization
 
 ### Part C: Project Funding Committee
 
@@ -230,11 +234,23 @@ To meet the goal of the committee, the committee shall:
 * Clean the lab and keep it organized as needed
 * Create general lab standards and procedures and make them known to any individual using the lab
 
-### Part H: Chairman appointment
+### Part H: Research and Onnovation Committee
+
+Goal of the committee:
+
+The Research and Innovation Committee is to foster an environment for innovation, research, self-learning among the members of the UC CubeCats by giving them a platform to conduct independent research and start projects outside of the CubeSat Program and the CATiSE Program. The position will fall under the President.
+
+To meet the goal of the committee, the committee shall:
+* Be the point of contact for proposing any new independent project
+* Provide help and resources to individuals/teams
+* Make sure the projects have a timeline and it is being followed
+* Work with Treasury Team to allocate funds to an individual/team if needed
+
+### Part I: Chairman appointment
 
 A chairman is to be appointed to each of these committees by the Executive Board within two weeks after the creation of the team. The Chairman shall manage the committee and take direction from his or her respective Executive Officer in order to meet committee goals. Chairmen are to fulfill his or her duties until he or she resigns, where a new chairman is to be appointed by the Executive Board for the respective committee. Each chair position term shall end at the end of the spring semester each year. New chairmen are then appointed after spring officer elections each year. If a chair position appointment is made in the middle of the year, the position still expires at the end of the spring.
 
-### Part I: Chair Limit
+### Part J: Chair Limit
 
 No officer position and chair position may be held at the same time by the same person. Similarly, no two chair positions may be held at the same time by the same person. If a chair position is left empty, work will be delegated equally to people within the committee and extended to officers if needed. This will take place until a new chairman or officer is elected.
 
@@ -379,3 +395,19 @@ Actions and activities, which are explicitly prohibited, include, but shall not 
 ## Section 16: Adoption
 
 These bylaws shall be enacted by a majority vote of the charter members of the UC CubeCats.
+
+
+## Section 17: Miscellaneous
+
+### Senior Design Proposal
+
+The members proposing the Senior Design project should have been members of UC CubeCats for at least one year from the date of the start of the project. Upon the creation of a senior design project concept the responsible party will create a document that outlines the following:
+
+* The end goal of the project and what the project will entail
+* A detailed breakdown of the timeline of the project. This includes key due/delivery dates and a gantt chart
+* A budget for the project
+* A list of team members (Including at least one non – senior CubeCats members)
+* The communications structure of the project and how the Senior Design team will interface with the CubeSat Program
+* Risks and problems that the project might come across
+
+The younger member(s) on the team shall have to stay on the team after the senior design ends. The document will then require signatures from the CubeSat Chief Engineer, CubeSat Program Manager, and CubeCats President. Once the project is approved by UC CubeCats, conversation will start with Senior Design Advisors to coordinate the logistics of the project within various departments.

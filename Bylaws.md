@@ -159,7 +159,7 @@ The Advisor shall:
 
 ### Part A: Establishment of standing committees
 
-The following permanent committees will be established with the creation of the UC CubeCats: Member Education Committee, Project Funding Committee, Ambassador Committee, Marketing Committee, Documentation Committee, Lab Management Committee, and Research and Innovation Committee.
+The following permanent committees will be established with the creation of the UC CubeCats: Member Education Committee, Project Funding Committee, Ambassador Committee, Marketing Committee, Documentation Committee, Lab Management Committee, Research and Innovation Committee, and Legal Committee.
 
 ### Part B: Member Education Committee
 
@@ -246,11 +246,22 @@ To meet the goal of the committee, the committee shall:
 * Make sure the projects have a timeline and it is being followed
 * Work with Treasury Team to allocate funds to an individual/team if needed
 
-### Part I: Chairman appointment
+### Part I: Legal Committee
+
+Goal of the committee:
+
+The Legal Committee is to ensure compliance of UC CubeCats affairs with legal policies and procedures.
+
+To meet the goal of the committee, the committee shall:
+* Manage the attainment of all legal licenses necessary for UC CubeCats projects
+* Hvae a general knowledge of the policies and procedures of the Universityof Cincinnati, the FAA, the FCC, and all other relevant external organizations
+* Serve as the point of contact for all legality inquiries and affairs
+
+### Part J: Chairman appointment
 
 A chairman is to be appointed to each of these committees by the Executive Board within two weeks after the creation of the team. The Chairman shall manage the committee and take direction from his or her respective Executive Officer in order to meet committee goals. Chairmen are to fulfill his or her duties until he or she resigns, where a new chairman is to be appointed by the Executive Board for the respective committee. Each chair position term shall end at the end of the spring semester each year. New chairmen are then appointed after spring officer elections each year. If a chair position appointment is made in the middle of the year, the position still expires at the end of the spring.
 
-### Part J: Chair Limit
+### Part K: Chair Limit
 
 No officer position and chair position may be held at the same time by the same person. Similarly, no two chair positions may be held at the same time by the same person. If a chair position is left empty, work will be delegated equally to people within the committee and extended to officers if needed. This will take place until a new chairman or officer is elected.
 

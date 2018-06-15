@@ -1,4 +1,4 @@
-# University of CubeCats Bylaws
+# University of Cincinnati CubeCats Bylaws
 
 ## Table of Contents
 

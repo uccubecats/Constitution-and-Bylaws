@@ -233,6 +233,7 @@ To meet the goal of the committee, the committee shall:
 * Manage and update the library and hardware checkout systems
 * Clean the lab and keep it organized as needed
 * Create general lab standards and procedures and make them known to any individual using the lab
+* Manage the distribution and collection of lab keys in accordance with Section 17 Part B of the bylaws.
 
 ### Part H: Research and Onnovation Committee
 
@@ -411,3 +412,7 @@ The members proposing the Senior Design project should have been members of UC C
 * Risks and problems that the project might come across
 
 The younger member(s) on the team shall have to stay on the team after the senior design ends. The document will then require signatures from the CubeSat Chief Engineer, CubeSat Program Manager, and CubeCats President. Once the project is approved by UC CubeCats, conversation will start with Senior Design Advisors to coordinate the logistics of the project within various departments.
+
+### Part B: Lab Key Assignment
+
+All Executive Officers, chairmen, and subsystem team leads in UC CubeCats shall be eligible for the posession of a lab key. Upon graduation or withdrawl from the UC CubeCats, all members in posession of a lab key shall return it to the University of Cincinnati and provide evidence of such to the Lab Management Committe.

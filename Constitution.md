@@ -60,7 +60,7 @@ Officer positions will include the President, Vice-President, Secretary, Treasur
 
 ### Section 2: Requirements
 
-Officers must be a matriculated student in good standing with his or her college, meeting a minimum GPA requirement of 2.75 and being a voting member. Officers must serve for one year, or until their successor is elected and qualified.
+Officers must be a matriculated student in good standing with his or her college, meeting a minimum GPA requirement of 2.75 at the instantiation of the term, and being a voting member at the time of election. Officers must serve for one year, or until their successor is elected and qualified.
 
 ### Section 3: Terms of officer removal
 

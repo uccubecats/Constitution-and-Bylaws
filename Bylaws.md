@@ -254,7 +254,7 @@ The Legal Committee is to ensure compliance of UC CubeCats affairs with legal po
 
 To meet the goal of the committee, the committee shall:
 * Manage the attainment of all legal licenses necessary for UC CubeCats projects
-* Hvae a general knowledge of the policies and procedures of the Universityof Cincinnati, the FAA, the FCC, and all other relevant external organizations
+* Hvae a general knowledge of the policies and procedures of the University of Cincinnati, the FAA, the FCC, and all other relevant external organizations
 * Serve as the point of contact for all legality inquiries and affairs
 
 ### Part J: Chairman appointment

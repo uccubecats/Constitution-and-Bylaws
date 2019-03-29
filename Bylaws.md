@@ -1,4 +1,4 @@
-# University of CubeCats Bylaws
+# University of Cincinnati CubeCats Bylaws
 
 ## Table of Contents
 
@@ -44,10 +44,11 @@ The President shall:
 
 * Call and preside at all meetings of the UC CubeCats.
 * Not vote on matters unless in the event of a tie.
-* Receive complaints, requests, and notifications of matters to be presented to the UC CubeCats. Duties also include bringing such items to the attention of appropriate parties within the team.
+* Receive complaints, requests, and notifications of matters to be presented to the UC CubeCats; bring such items to the attention of appropriate parties within the UC CubeCats.
 * Co-sign checks with the University Advisor in the absence of the Treasurer.
 * Be an ex-officio member of all committees of the UC CubeCats.
-* Meet with all teams and committees to establish and maintain the goals of the UC CubeCats.
+* Meet with all Project Leads and Committee Chairs to establish and maintain the goals of the UC CubeCats.
+* Manage the Legal Committee, Educational Committee, and the Research and Innovation Committee.
 * Check the GPAs of all officers.
 * Maintain a position on the Executive Board.
 
@@ -59,21 +60,21 @@ The Vice President shall:
 * Preside at all meetings of the UC CubeCats.
 * Perform duties as assigned by the President.
 * Ensure the mailbox is checked and mail is delivered to the appropriate chair year round.
-* Manage the educational chair, educational program, educational committee, and ambassador.
+* Manage the Ambassador Committee and all educational projects.
 * Maintain a position on the Executive Board.
 
 ### Part C: Secretary
 
 The Secretary shall:
 
-* Record minutes of all meetings and make available electronic copies of the minutes to all members.
-* Amend the Constitution and Bylaws after amending by the team.
+* Record minutes of all general and executive meetings and make available electronic copies of the minutes to all members.
+* Amend the Constitution and Bylaws after amending by the UC CubeCats.
 * Record the attendance at meetings.
 * Manage general organization (electronic, physical, etc.) of the UC CubeCats.
-* Re-register the team annually with the SAB.
-* Reapply for the team mailbox in August of each year.
+* Re-register the UC CubeCats annually with the SAB.
+* Reapply for the UC CubeCats mailbox in August of each year.
 * Maintain a list of all current members of the UC CubeCats.
-* Manage the documentation chair and lab manager.
+* Manage the Documentation Committee and Lab Management Committee.
 * Maintain a position on the Executive Board.
 
 ### Part D: Treasurer
@@ -81,20 +82,19 @@ The Secretary shall:
 The Treasurer shall:
 
 * Manage all finances of the UC CubeCats.
-* Collect and receive all funds paid to the team and deposit them in the official depository.
-* Have the final approval, along with the University Advisor, of all team expenditures.
+* Collect and receive all funds paid to the UC CubeCats and deposit them in the official depository.
+* Have the final approval, along with the University Advisor, of all UC CubeCats expenditures.
 * Co-sign all checks with the University Advisor in payment of bills.
 * Abide by and have a general knowledge of all UC funding policies and procedures.
 * Report all transactions and balance of accounts to the Executive Board upon request.
-* Report the financial standing of the team to all members at general meetings.
+* Report the financial standing of the UC CubeCats to all members at general meetings.
 * Submit the student organization and certification form to PNC Bank each year.
-* Renew the website of the UC CubeCats each year.
 * Manage funding, grant, and sponsorship methods and applications for the UC CubeCats.
 * Complete proper paperwork for budgets to be submitted to the University Funding Board.
 * Keep bank account and financial records, which must be open to inspection by the President, Executive Board, Funding Board, GSGA, and authorized auditors.
 * Oversee internal fundraising projects.
 * Work with chairmen to attain funding and grants outside of the university.
-* Manage the project funding and marketing chairs.
+* Manage the Project Funding Committee and Marketing Committee.
 * Maintain a position on the Executive Board.
 
 ### Part E: CubeSat Project Manager
@@ -117,7 +117,7 @@ Elections of officers will take place the second to last meeting of the spring s
 
 ### Part B: Election process
 
-After nominations are made, potential candidates have one week to create speeches, which are to be sent out to all voting-members of the team at the end of that week. After the nomination meeting, speeches are to be given at the next general meeting. Voting members then have a week to review speeches and potential candidates. At the election meeting, ballots are to be passed out to all present voting members, which are to be filled out and turned to the current President, who will count the ballots. If the current President is running in the election, the vice-president shall count the votes. In the event that the Vice-President or any subsequent officers are running again and unable to count the votes, the order in which the responsibility falls is Secretary, Treasurer, and the team faculty Advisor. The candidate with the most votes wins the election in his or her respective officer position.
+After nominations are made, potential candidates have one week to create speeches, which are to be sent out to all voting-members of the UC CubeCats at the end of that week. After the nomination meeting, speeches are to be given at the next general meeting. Voting members then have a week to review speeches and potential candidates. At the election meeting, ballots are to be passed out to all present voting members, which are to be filled out and turned to the current President, who will count the ballots. If the current President is running in the election, the Vice-President shall count the votes. In the event that the Vice-President or any subsequent officers are running again and unable to count the votes, the order in which the responsibility falls is Secretary, Treasurer, and the faculty Advisor. The candidate with the most votes wins the election in his or her respective officer position.
 
 ## Section 3: Executive Board
 
@@ -130,12 +130,12 @@ The Executive Board shall consist of the President, Vice-President, Secretary, T
 The Executive Board shall:
 
 * Meet monthly to discuss the direction and changes of the UC CubeCats and any additional matters deemed necessary. In addition to monthly meetings, the Executive Board may meet by the President’s call.
-* Ensure one member of exec attends SOCC meetings.
+* Ensure one member of the Executive Board attends SOCC meetings.
 * Have final approval of all applications.
 * Have the final approval of all events attended by the UC CubeCats.
 * Update the Advisor on the direction of the UC CubeCats at least once a semester and additionally as deemed necessary.
 * Each member of the Executive Board shall educate his or her successor on their position’s duties.
-* A formal Transition Summit shall occur at the end of the spring semester. During the Transition Summit, new officers are transitioned into their respective roles and goals are established for the next year.
+* A formal Transition Summit shall occur at the end of the spring semester, when new officers are transitioned into their respective roles and goals are established for the next year.
 
 ### Part C: Executive Board meetings
 
@@ -143,7 +143,7 @@ The Executive Board is to meet monthly to discuss duties and report to other mem
 
 ### Part D: Former officers on the Executive Board
 
-In the case that it is deemed necessary that the immediate past President is to be a voting member of the Executive Board, he or she must be a full or part-time student enrolled in the University. He or she must maintain a 2.75 GPA and be in good academic and disciplinary standing with his or her respective college.
+In the case that it is deemed necessary that the immediate past President is to be a voting member of the Executive Board: he or she must be a full or part-time student enrolled in the University; he or she must maintain a 2.75 GPA; and he or she must be in good academic and disciplinary standing with his or her respective college.
 
 ## Section 4: University Advisor
 
@@ -171,7 +171,7 @@ To meet the goal of the committee, the committee shall:
 
 * Create and manage all educational programs
 * Schedule, assign workshop leaders, and manage all internal workshops of the UC CubeCats
-* Be responsible for managing the educational objectives of projects in the Cubesat program and the CATiSE program
+* Manage the educational objectives of projects in the Cubesat program and the CATiSE program
 * Be the point of contact for any external education organization
 
 ### Part C: Project Funding Committee
@@ -195,13 +195,13 @@ The Ambassador Committee is to plan events where community or university outreac
 To meet the goal of the committee, the committee shall:
 
 * Manage recruitment of new members
-* Plan and schedule participation in University held events
+* Plan and schedule participation in University of Cincinnati held events
 
 ### Part E: Marketing Committee
 
 Goal of the committee:
 
-The Marketing Committee is to market and brand the UC CubeCats to the University and the general public.
+The Marketing Committee is to market and brand the UC CubeCats to the University of Cincinnati and the general public.
 
 To meet the goal of the committee, the committee shall:
 
@@ -219,7 +219,7 @@ To meet the goal of the committee, the committee shall:
 
 * Ensure documentation for projects is easily accessible
 * Generate standardized document formats and templates for the UC CubeCats
-* Work with other teams and committees to ensure documentation standards are met
+* Work with other projects and committees to ensure documentation standards are met
 
 ### Part G: Lab Management Committee
 
@@ -239,7 +239,7 @@ To meet the goal of the committee, the committee shall:
 
 Goal of the committee:
 
-The Research and Innovation Committee is to foster an environment for innovation, research, self-learning among the members of the UC CubeCats by giving them a platform to conduct independent research and start projects outside of the CubeSat Program and the CATiSE Program. The position will fall under the President.
+The Research and Innovation Committee is to foster an environment for innovation, research and self-learning among the members of the UC CubeCats by giving them a platform to conduct independent research and projects.
 
 To meet the goal of the committee, the committee shall:
 * Be the point of contact for proposing any new independent project
@@ -249,7 +249,7 @@ To meet the goal of the committee, the committee shall:
 
 ### Part I: Chairman appointment
 
-A chairman is to be appointed to each of these committees by the Executive Board within two weeks after the creation of the team. The Chairman shall manage the committee and take direction from his or her respective Executive Officer in order to meet committee goals. Chairmen are to fulfill his or her duties until he or she resigns, where a new chairman is to be appointed by the Executive Board for the respective committee. Each chair position term shall end at the end of the spring semester each year. New chairmen are then appointed after spring officer elections each year. If a chair position appointment is made in the middle of the year, the position still expires at the end of the spring.
+A chairman is to be appointed to each of these Committees by the Executive Board within two weeks after the creation of the Committee. The Chairman shall manage the Committee and take direction from his or her respective Executive Officer in order to meet Committee goals. Chairmen are to fulfill his or her duties until he or she resigns, where a new chairman is to be appointed by the Executive Board for the respective Committee. Each chair position term shall end at the end of the spring semester each year. New chairmen are then appointed after spring officer elections each year. If a chair position appointment is made in the middle of the year, the position still expires at the end of the spring.
 
 ### Part J: Chair Limit
 
@@ -259,11 +259,11 @@ No officer position and chair position may be held at the same time by the same 
 
 ### Part A: Establishment of committees
 
-The Executive Board may establish special committees and appoint chairman at their discretion, as well as approve which team members are a part of the committee.
+The Executive Board may establish special committees and appoint chairmen at their discretion, as well as approve which members are a part of the committee.
 
 ### Part B: Establishment of Subsystem Teams
 
-The Executive Board may establish a Subsystem Team and appoint a Subsystem Team Lead at their discretion, as well as approve which team members are a part of the Subsystem Team.
+The Executive Board may establish a Subsystem Team and appoint a Subsystem Team Lead at their discretion, as well as approve which members are a part of the Subsystem Team.
 
 ### Part C: Dismissal of committees
 
@@ -273,25 +273,25 @@ The Executive Board may dissolve special committees at their discretion. The Exe
 
 ### Part A: Voting conducted in meetings
 
-Quorum of 1/2 of voting members is necessary to conduct any official business. Assuming quorum is present, matters are decided by majority voting, unless otherwise specified in the bylaws (ex. ratification, amendments, etc.).
+Quorum of 1/2 of voting members is necessary to conduct any official business. Assuming quorum is present, matters are decided by majority voting, unless otherwise specified in the bylaws.
 
 ### Part B: Time of meetings
 
-Meetings require a two week notice prior to the meeting time. General meeting times and dates are to be decided upon by the Executive Board. General meeting must be held at least twice a semester.
+Meetings require a two week notice prior to the meeting time. General meeting times and dates are to be decided upon by the Executive Board. General meetings must be held at least twice a semester.
 
 ### Part C: Place of meetings
 
-The location of the meeting is to be determined by the Executive Board, and members of the team must be notified of the location at least two weeks before the meeting.
+The location of each meeting is to be determined by the Executive Board, and members of the UC CubeCats must be notified of the location at least two weeks before the meeting.
 
 ## Section 8: Revenue
 
 ### Part A: Membership fees and dues
 
-Membership fees are $0.00 paid to the treasurer upon application to the team. Dues are $0.00 paid to the treasurer by the end of the fall semester.
+Membership fees are $0.00 paid to the treasurer upon application to the UC CubeCats. Dues are $0.00 paid to the Treasurer by the end of the fall semester.
 
 ### Part B: Generation of revenue
 
-Revenue may be generated through events such as fundraisers, etc. Generated revenue must be approved by the Executive Board, general body of the student organization, and appropriate University office. The revenue generated by such events must be used to further the mission and goals of the University of Cincinnati CubeCats, programmatic efforts, or for the support of philanthropic efforts.
+Revenue may be generated through events such as fundraisers. Generated revenue must be approved by the Executive Board, general body of the student organization, and appropriate University office. The revenue generated by such events must be used to further the mission and goals of the University of Cincinnati CubeCats, programmatic efforts, or for the support of philanthropic efforts.
 
 ### Part C: Disbursement of revenue
 
@@ -299,7 +299,7 @@ Disbursement of revenue must be approved by the Executive Board and comply with 
 
 ### Part D: Revenue duties of the Treasurer
 
-The treasurer is responsible for all monies in possession of the team. The treasurer must report to the executive board and members of the team.
+The Treasurer is responsible for all monies in possession of the UC CubeCats. The Treasurer must report to the Executive Board and members of the UC CubeCats.
 
 ### Part E: Dissolution
 
@@ -309,7 +309,7 @@ In the case of dissolution, the distribution of revenue shall be done in accorda
 
 ### Part A: Disciplinary action
 
-Disciplinary action may be taken by the Executive Board on any member of the team, provided that proper justification exists. The disciplinary action chosen is up to the discretion of the Executive Board and is to be proportional to the severity of the offense. After disciplinary action is taken, the member receiving the disciplinary action must be officially notified.
+Disciplinary action may be taken by the Executive Board on any member of the UC CubeCats, provided that proper justification exists. The disciplinary action chosen is up to the discretion of the Executive Board and is to be proportional to the severity of the offense. After disciplinary action is taken, the member receiving the disciplinary action must be officially notified.
 
 ### Part B: Disciplinary action hearing
 
@@ -317,19 +317,19 @@ The member in question must attend a hearing in the presence of the Executive Bo
 
 ### Part C: Definition of suspension
 
-Suspension is defined as the prevention and disallowance of any kind participation or ties, including financial ties, on the team for the time specified by the Executive Board.
+Suspension is defined as the prevention and disallowance of any kind participation or ties, including financial ties, on the UC CubeCats for the time specified by the Executive Board.
 
 ### Part D: Definition of expulsion
 
-Expulsion is defined as the permanent prevention and disallowance of any kind of affiliation or participation, including financial affiliation, on the team. Any student whose membership to the team has been revoked must forfeit all interest in any funds or other property belonging to the UC CubeCats and may not use the team’s name in connection with any further activities.
+Expulsion is defined as the permanent prevention and disallowance of any kind of affiliation or participation, including financial affiliation, on the UC CubeCats. Any student whose membership to the UC CubeCats has been revoked must forfeit all interest in any funds or other property belonging to the UC CubeCats and may not use the organization’s name in connection with any further activities.
 
 ### Part E: Grounds for suspension and expulsion
 
-Suspension and expulsion of members can be made for inappropriate behavior or behavior that is not compliant with University policies or is not in line with the goals of the University of Cincinnati CubeCats.
+Suspension and expulsion of members can be made for inappropriate behavior or behavior that is not compliant with University policies or is not in line with the goals of the UC CubeCats.
 
 ### Part F: Appeals
 
-Members receiving suspension or expulsion may appeal the decision within two weeks of being notified of the decision. The appeal is to be presented to the Executive Board within the two week time span at an appeals meeting. If members of the Executive Board are unable to attend the meeting, minutes of the appeals meeting will be sent to them. Executive board members must then vote on the final decision within one week. After the final decision has been made, the member receiving disciplinary action will be officially notified via email. A vote of 2/3 of the Executive Board is needed to uphold the disciplinary action taken. This vote is final.
+Members receiving suspension or expulsion may appeal the decision within two weeks of being notified of the decision. The appeal is to be presented to the Executive Board within the two week time span in an appeals meeting. If members of the Executive Board are unable to attend the meeting, minutes of the appeals meeting will be sent to them. Executive Board members must then vote on the final decision within one week. After the final decision has been made, the member receiving disciplinary action will be officially notified via email. A vote of 2/3 of the Executive Board is needed to uphold the disciplinary action taken. This vote is final.
 
 ## Section 10: Impeachment
 
@@ -363,7 +363,7 @@ In the case that the office of the President becomes vacant, the Vice-President 
 
 ### Part A: Amendment proposal
 
-Any member may propose an amendment, which is to be voted on at the next general meeting that occurs at a minimum of one week after the notification of the proposal to members of the Team.
+Any member may propose an amendment, which is to be voted on at the next general meeting that occurs at a minimum of one week after the notification of the proposal to members of the UC CubeCats.
 
 ### Part B: Amendment voting
 
@@ -377,13 +377,13 @@ Upon the dissolution of the UC CubeCats, assets shall be distributed for one or 
 
 ### Part B: Conducting of process
 
-The Advisor and Executive Board of the University of Cincinnati CubeCats are to oversee the process of dissolution.
+The Advisor and Executive Board of the UC CubeCats are to oversee the process of dissolution.
 
 ## Section 15: Non-hazing clause
 
 The laws of the state of Ohio and the University of Cincinnati policies concerning hazing shall be observed.
 
-Hazing shall be defined as participating in or allowing any act or coercing another, including the victim, to do any act that creates a substantial risk of causing mental or physical harm to any person. A forced or coerced activity shall also be considered hazing when the initiation or administration into, or continued affiliation with, a university organization is directly or indirectly 	conditional upon performing the activity. In no event shall the willingness of an individual to participate in such an activity serve as defense in cases of hazing.
+Hazing shall be defined as participating in or allowing any act or coercing another, including the victim, to do any act that creates a substantial risk of causing mental or physical harm to any person. A forced or coerced activity shall also be considered hazing when the initiation or administration into, or continued affiliation with, a university organization is directly or indirectly conditional upon performing the activity. In no event shall the willingness of an individual to participate in such an activity serve as defense in cases of hazing.
 
 Actions and activities, which are explicitly prohibited, include, but shall not be limited to the following:
 
@@ -397,10 +397,9 @@ Actions and activities, which are explicitly prohibited, include, but shall not 
 
 These bylaws shall be enacted by a majority vote of the charter members of the UC CubeCats.
 
-
 ## Section 17: Miscellaneous
 
-### Senior Design Proposal
+### Part A: Senior Design Proposal
 
 The members proposing the Senior Design project should have been members of UC CubeCats for at least one year from the date of the start of the project. Upon the creation of a senior design project concept the responsible party will create a document that outlines the following:
 

@@ -2,7 +2,7 @@
 
 ## Name: Code of Conduct
 
-## Expiration: December 31st, 2019
+## Expiration: March 31st, 2020
 
 ## Contents
 

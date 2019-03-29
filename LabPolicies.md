@@ -2,7 +2,7 @@
 
 ## Name: Lab Policies
 
-## Expiration: March 31st, 2018
+## Expiration: March 31st, 2020
 
 ## Contents
 

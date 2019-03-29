@@ -411,3 +411,11 @@ The members proposing the Senior Design project should have been members of UC C
 * Risks and problems that the project might come across
 
 The younger member(s) on the team shall have to stay on the team after the senior design ends. The document will then require signatures from the CubeSat Chief Engineer, CubeSat Program Manager, and CubeCats President. Once the project is approved by UC CubeCats, conversation will start with Senior Design Advisors to coordinate the logistics of the project within various departments.
+
+### Part C: Procedure
+ 
+A procedure is a rule or standard the UC CubeCats shall abide by for a pre-determined amount of time. It is typically either too fluctuating, too informal or too short-term to add to the bylaws. Procedures shall have an expiration date adssociated with them and shall be upheld as part of the bylaws for the duration of their term.
+
+The approval and amending processes for procedures will be the same as those of the bylaws, as detailed in Section 13. All procedures must be stored electronically in the same location as the constitution and bylaws and made available to all members.
+
+The Secretary is responsible for notifying the UC CubeCats when a procedure expires with two weeks notice. A new procedure can be created to replace it or it can be reinstantiated without change.

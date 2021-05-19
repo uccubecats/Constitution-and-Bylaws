@@ -48,9 +48,9 @@ Honorary non-voting membership is open to any individual willing to become such 
 
 No limit on the size of membership will be placed, provided that the number of non-voting and honorary members does not outnumber the number of voting members.
 
-### Section 6: Non-discrimination
+### Section 6: Anti-Discrimination Statement
 
-This organization shall not discriminate on the basis of race, color, ethnicity, national origin, age, gender, disability or handicap, religion, sexual orientation, disabled veteran’s status or Vietnam era veteran’s status in any of its policies, procedures, and practices. This policy will include but is not limited to recruiting, membership, organization activities, or opportunity to hold office.
+The University of Cincinnati does not discriminate on the basis of disability, race, color, religion, except for religious qualifications which may be required by organizations whose aims are primarily sectarian, national origin, ancestry, medical condition, genetic information, marital status, parental status (including status as a foster parent), sex, age, sexual orientation, military status (past, present, or future), or gender identity and expression in its programs and activities.
 
 ## Article IV – Officers
 
